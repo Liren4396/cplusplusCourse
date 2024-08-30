@@ -1,0 +1,5 @@
+/import/glass/5/z5369144/Downloads/comp6771/exercises-w9/build/CMakeFiles/catch2_main.dir
+/import/glass/5/z5369144/Downloads/comp6771/exercises-w9/build/CMakeFiles/ring.dir
+/import/glass/5/z5369144/Downloads/comp6771/exercises-w9/build/CMakeFiles/test.dir
+/import/glass/5/z5369144/Downloads/comp6771/exercises-w9/build/CMakeFiles/edit_cache.dir
+/import/glass/5/z5369144/Downloads/comp6771/exercises-w9/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ring.dir/src/9.3/ring.cpp.o -o ring  libcatch2_main.a 
