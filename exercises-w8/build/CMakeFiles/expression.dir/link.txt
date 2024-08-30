@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/expression.dir/src/8.4/expression.cpp.o -o expression  libcatch2_main.a liborder.a libexpr.a liborder.a libcatch2_main.a 

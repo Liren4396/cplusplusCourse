@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexpr.a CMakeFiles/expr.dir/src/8.4/expr.cpp.o
+/usr/bin/ranlib libexpr.a

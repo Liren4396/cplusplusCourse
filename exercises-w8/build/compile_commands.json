@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/build",
+  "command": "/usr/bin/c++  -I/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib/catch2_main.cpp",
+  "file": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib/catch2_main.cpp"
+},
+{
+  "directory": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/build",
+  "command": "/usr/bin/c++  -I/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/order.dir/src/8.3/order.cpp.o -c /import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.3/order.cpp",
+  "file": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.3/order.cpp"
+},
+{
+  "directory": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/build",
+  "command": "/usr/bin/c++  -I/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/ordered.dir/src/8.3/ordered.cpp.o -c /import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.3/ordered.cpp",
+  "file": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.3/ordered.cpp"
+},
+{
+  "directory": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/build",
+  "command": "/usr/bin/c++  -I/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/expr.dir/src/8.4/expr.cpp.o -c /import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.4/expr.cpp",
+  "file": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.4/expr.cpp"
+},
+{
+  "directory": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/build",
+  "command": "/usr/bin/c++  -I/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/expression.dir/src/8.4/expression.cpp.o -c /import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.4/expression.cpp",
+  "file": "/import/glass/5/z5369144/Downloads/comp6771/exercises-w8/src/8.4/expression.cpp"
+}
+]

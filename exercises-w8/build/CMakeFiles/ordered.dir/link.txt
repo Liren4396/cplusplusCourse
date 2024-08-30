@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ordered.dir/src/8.3/ordered.cpp.o -o ordered  libcatch2_main.a liborder.a libcatch2_main.a 
